@@ -1,1 +1,8 @@
 /*stylesheet for custom css in bootstrap challenge*/
+/*set margins*/
+html {
+	margin: 20px;
+}
+.jumbotron {
+	padding:	20px;
+}
