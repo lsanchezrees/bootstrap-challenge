@@ -5,4 +5,39 @@ html {
 }
 .jumbotron {
 	padding:	20px;
+
+}
+.row:first-child {
+	background-color: lightgray;
+	padding: 3rem;
+}
+.row.col-md-9 {
+	left-margin: 0.5rem;
+}
+.row:nth-child(2) {
+	padding: 3rem;
+	margin: 3rem;
+}
+img {
+	margin: 3rem;
+}
+
+.col-md-3>p {
+	border: solid gray 0.15em;
+	border-radius: 1em;
+	background-color:lightgrey;
+	padding: 1em;
+}
+
+.row.col-sm-12 {
+	background-color: black;
+}
+.footer1 {
+	background-color: black;
+	color: white;
+	text-align: center;
+
+}
+div.row.footer1 {
+	background-color: black;
 }
