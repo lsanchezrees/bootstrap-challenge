@@ -29,6 +29,11 @@ img {
 	padding: 1em;
 }
 
+/*padding to get top of text to align with img */
+.padding1 {
+	padding-top: 2rem;
+}
+
 .row.col-sm-12 {
 	background-color: black;
 }
